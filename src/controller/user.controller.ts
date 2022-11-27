@@ -4,7 +4,7 @@ import { createUserInput } from "../schema/user.schema";
 import { createUser } from "../service/user.service";
 import log from "../utils/logger";
 
-export async function crreateUserHandler(
+export async function createUserHandler(
   req: Request<{}, {}, createUserInput["body"]>,
   res: Response
 ) {
