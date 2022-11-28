@@ -5,6 +5,6 @@ export default {
   accessTokenTtl: "15m",
   refreshTokenTtl: "1y",
   publicKey:
-    "-----BEGIN PUBLIC KEY-----\nMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCaxTsNf0/+K4Hsic5mqcrrEPP7\nn6RLGwxBOcFftg+r1nCM9DP3xE2IzesxPBsjeAZBxsUoJYJLj3vijVXisp7x/2Ai\nan2XpbEzAxDZEG4d1MUWTMNUVo/I17mbTYlnIlDP/6mAkGs3YDFK2AO1kfxfyzxK\n1LtLHOk+OqNmyDxCQwIDAQAB\n-----END PUBLIC KEY-----",
+    "-----BEGIN PUBLIC KEY-----\nMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCqDSVYYrSwSyF5yoG+5WZkOotY\nNuJuMsrOnzGugFJ+A+Pxv2SYN0/eqN45q9UbveT9x8pf7aoj+/oQpKUxRvKebhR4\nAgcI4/GVlM3gdiBufl51kkuZOyntLWdg3UiKNnB7STjZsDF5RddLdqQhf5XODY/F\n/K/OHkznUQOeZLhmRQIDAQAB\n-----END PUBLIC KEY-----",
   privateKey: "",
 };

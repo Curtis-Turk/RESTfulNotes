@@ -10,8 +10,6 @@ const port = config.get<number>("port");
 
 const app = express();
 
-console.log(config.get("privateKey"));
-
 app.use(express.json());
 
 app.listen(port, async () => {
